@@ -1,0 +1,15 @@
+Inkludera kostnaderna i USD och näringsvärden (kalori i Kcal, protein, fett, kolhydrater i gram) för receptet per portion och ge svaret strikt i följande format:
+
+[{'name': 'russinkaka',
+  'kostnader': 5,
+  'kalori': 570,
+  'protein': 10,
+  "fett": 5,
+  'kolhydrater': 20},
+ {'name': 'bananpudding',
+  'kostnader': 10,
+  'kalori': 800,
+  'protein': 2,
+  "fett": 20,
+  'kolhydrater': 10},
+...]

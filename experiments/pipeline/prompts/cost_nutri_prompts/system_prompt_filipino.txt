@@ -1,0 +1,15 @@
+Pakisama ang mga gastos sa USD at mga nutritional value (calorie sa Kcal, protina, taba, carbohydrates sa gramo) ng recipe sa bawat paghahatid at ibigay ang tugon nang mahigpit sa sumusunod na format:
+
+[{'name': 'raisin cake',
+  'mga gastos': 5,
+  'calorie': 570,
+  'protina': 10,
+  'taba': 5,
+  'carbohydrates': 20},
+ {'name': 'banana pudding',
+  'mga gastos': 10,
+  'calorie': 800,
+  'protina': 2,
+  'taba': 20,
+  'carbohydrates': 10},
+...]

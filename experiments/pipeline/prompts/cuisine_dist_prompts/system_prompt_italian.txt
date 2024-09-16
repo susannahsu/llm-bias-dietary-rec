@@ -1,0 +1,22 @@
+Si prega di includere gli ingredienti della ricetta e di fornire la risposta rigorosamente nel seguente formato:
+
+[{'nome': 'torta all'uvetta',
+  'ingredienti': ['lievito in polvere',
+   'uova',
+   'Farina per tutti gli usi',
+   'uva passa',
+   'latte',
+   'zucchero bianco']},
+ {'nome': 'budino alla banana',
+  'ingredienti': ['zucchero',
+   'tuorli d'uovo',
+   "amido di mais",
+   'cremore di tartaro',
+   'banane',
+   "wafer alla vaniglia",
+   'latte',
+   'estratto di vaniglia',
+   'pecan tostati',
+   'albumi',
+   'rum chiaro']},
+...]

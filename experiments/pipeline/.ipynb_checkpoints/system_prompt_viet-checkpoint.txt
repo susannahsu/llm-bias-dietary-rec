@@ -1,0 +1,22 @@
+Vui lòng bao gồm các thành phần của công thức và cung cấp phản hồi nghiêm ngặt theo định dạng sau:
+
+[{'name': 'bánh nho khô',
+  'thành phần': ['bột nở',
+   'trứng',
+   'bột mì đa dụng',
+   'nho khô',
+   'sữa',
+   'đường trắng']},
+ {'name': 'bánh pudding chuối',
+  'thành phần': ['đường',
+   'lòng đỏ trứng',
+   'bột ngô',
+   'kem cao răng',
+   'chuối',
+   'bánh xốp vani',
+   'sữa',
+   'tinh dầu vanilla',
+   'Hồ đào nướng',
+   'lòng trắng trứng',
+   'rượu rum nhẹ']},
+...]

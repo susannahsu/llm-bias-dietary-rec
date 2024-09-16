@@ -1,0 +1,22 @@
+Cuir comhábhair an oidis san áireamh agus tabhair an freagra go docht san fhormáid seo a leanas:
+
+[{ 'ainm': 'císte raisin',
+  'comhábhair': ['púdar bácála',
+   'uibheacha',
+   'plúr uilefhóinteach',
+   'raisins',
+   'bainne',
+   'siúcra bán']},
+ { 'ainm': 'maróg banana',
+  'comhábhair': ['siúcra',
+   'buíocáin uibhe',
+   'stáirse arbhair',
+   'uachtar tartar',
+   'bananaí',
+   'scaifeanna fanail',
+   'bainne',
+   'sliocht fanaile',
+   pecans tósta',
+   'bánna uibhe',
+   'rum éadrom']},
+...]

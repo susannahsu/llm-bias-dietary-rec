@@ -1,0 +1,15 @@
+Si prega di includere i costi in USD e i valori nutrizionali (calorie in Kcal, proteine, grassi, carboidrati in grammi) della ricetta per porzione e fornire la risposta rigorosamente nel seguente formato:
+
+[{'nome': 'torta all'uvetta',
+  'costi': 5,
+  'calorie': 570,
+  'proteine': 10,
+  'grasso': 5,
+  'carboidrati': 20},
+ {'nome': 'budino alla banana',
+  'costi': 10,
+  'calorie': 800,
+  'proteine': 2,
+  'grasso': 20,
+  'carboidrati': 10},
+...]

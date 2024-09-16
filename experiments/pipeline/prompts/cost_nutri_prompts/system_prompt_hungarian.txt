@@ -1,0 +1,15 @@
+Kérjük, adja meg adagonként a recept költségeit USD-ban és tápértékét (kalória Kcal-ban, fehérje, zsír, szénhidrát grammban), és a választ szigorúan a következő formátumban adja meg:
+
+[{'name': "mazsola torta",
+  „költségek”: 5,
+  "kalória": 570,
+  "fehérje": 10,
+  "kövér": 5,
+  „szénhidrátok”: 20},
+ {'name': 'banánpuding',
+  „költségek”: 10,
+  "kalória": 800,
+  "fehérje": 2,
+  "kövér": 20,
+  „szénhidrátok”: 10},
+...]

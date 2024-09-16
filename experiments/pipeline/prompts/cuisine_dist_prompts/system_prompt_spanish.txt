@@ -1,0 +1,22 @@
+Incluya los ingredientes de la receta y proporcione la respuesta estrictamente en el siguiente formato:
+
+[{'nombre': 'pastel de pasas',
+  'ingredientes': ['polvo para hornear',
+   'huevos',
+   'harina para todo uso',
+   'Pasas',
+   'leche',
+   'azucar blanca']},
+ {'nombre': 'pudín de plátano',
+  'ingredientes': ['azúcar',
+   'yemas de huevo',
+   'maicena',
+   'crémor tártaro',
+   'plátanos',
+   'obleas de vainilla',
+   'leche',
+   'extracto de vainilla',
+   'nueces tostadas',
+   'claras de huevo',
+   'Ron blanco']},
+...]

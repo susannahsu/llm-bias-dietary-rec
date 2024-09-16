@@ -1,0 +1,15 @@
+Please include the costs in USD and nutritional values (calorie in Kcal, protein, fat, carbohydrates in grams) of the recipe per serving and provide the response strictly in the following format:
+
+[{'name': 'raisin cake',
+  'costs': 5,
+  'calorie': 570,
+  'protein': 10,
+  'fat': 5,
+  'carbohydrates': 20},
+ {'name': 'banana pudding',
+  'costs': 10,
+  'calorie': 800,
+  'protein': 2,
+  'fat': 20,
+  'carbohydrates': 10},
+...]

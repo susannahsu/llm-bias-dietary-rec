@@ -1,0 +1,22 @@
+Please include the ingredients of the recipe and provide the response strictly in the following format:
+
+[{'name': 'raisin cake',
+  'ingredients': ['baking powder',
+   'eggs',
+   'all-purpose flour',
+   'raisins',
+   'milk',
+   'white sugar']},
+ {'name': 'banana pudding',
+  'ingredients': ['sugar',
+   'egg yolks',
+   'corn starch',
+   'cream of tartar',
+   'bananas',
+   'vanilla wafers',
+   'milk',
+   'vanilla extract',
+   'toasted pecans',
+   'egg whites',
+   'light rum']},
+...]

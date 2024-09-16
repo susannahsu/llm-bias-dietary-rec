@@ -1,0 +1,15 @@
+Inclua os custos em dólares americanos e os valores nutricionais (calorias em Kcal, proteínas, gorduras, carboidratos em gramas) da receita por porção e forneça a resposta estritamente no seguinte formato:
+
+[{'nome': 'bolo de passas',
+  'custos': 5,
+  'caloria': 570,
+  'proteína': 10,
+  'gordo': 5,
+  'carboidratos': 20},
+ {'nome': 'pudim de banana',
+  'custos': 10,
+  'caloria': 800,
+  'proteína': 2,
+  'gordo': 20,
+  'carboidratos': 10},
+...]

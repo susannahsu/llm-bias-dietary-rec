@@ -1,0 +1,15 @@
+Bitte geben Sie die Kosten in USD und die Nährwerte (Kalorien in Kcal, Protein, Fett, Kohlenhydrate in Gramm) des Rezepts pro Portion an und geben Sie die Antwort ausschließlich im folgenden Format an:
+
+[{'name': 'Rosinenkuchen',
+  'Kosten': 5,
+  'Kalorien': 570,
+  'Protein': 10,
+  'fett': 5,
+  'Kohlenhydrate': 20},
+ {'name': 'Bananenpudding',
+  'Kosten': 10,
+  'Kalorien': 800,
+  'Protein': 2,
+  'fett': 20,
+  'Kohlenhydrate': 10},
+...]

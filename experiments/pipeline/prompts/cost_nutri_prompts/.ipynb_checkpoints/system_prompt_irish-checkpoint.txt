@@ -1,0 +1,15 @@
+Cuir san áireamh le do thoil na costais i USD agus luachanna cothaitheacha (calorie i Kcal, próitéin, saill, carbaihiodráití i ngraim) an t-oideas in aghaidh an riar agus tabhair an freagra go docht san fhormáid seo a leanas:
+
+[{ 'ainm': 'císte raisin',
+  'costais': 5,
+  'calorie': 570,
+  'próitéin': 10,
+  'saille': 5,
+  'carbaihiodráití': 20},
+ { 'ainm': 'maróg banana',
+  'costais': 10,
+  'calorie': 800,
+  'próitéin': 2,
+  'saille': 20,
+  'carbaihiodráití': 10},
+...]

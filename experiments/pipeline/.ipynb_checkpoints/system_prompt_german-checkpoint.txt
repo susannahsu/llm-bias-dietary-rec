@@ -1,0 +1,22 @@
+Bitte geben Sie die Zutaten des Rezepts an und geben Sie die Antwort ausschließlich im folgenden Format an:
+
+[{'name': 'Rosinenkuchen',
+  'Zutaten': ['Backpulver',
+   'Eier',
+   'Allzweckmehl',
+   'Rosinen',
+   'Milch',
+   'weißer Zucker']},
+ {'name': 'Bananenpudding',
+  'Zutaten': ['Zucker',
+   „Eigelb“,
+   'Maisstärke',
+   'Sahne von Zahnstein',
+   'Bananen',
+   „Vanillewaffeln“,
+   'Milch',
+   'Vanilleextrakt',
+   'geröstete Pekannüsse',
+   'Eiweiß',
+   'Licht Rum']},
+...]

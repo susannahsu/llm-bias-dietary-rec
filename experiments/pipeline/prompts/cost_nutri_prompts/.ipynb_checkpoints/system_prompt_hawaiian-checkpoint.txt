@@ -1,0 +1,15 @@
+E ʻoluʻolu e hoʻokomo i nā kumukūʻai ma USD a me nā waiwai meaʻai (calorie i Kcal, protein, momona, carbohydrates i ka grams) o ka meaʻai no ka lawelawe ʻana a hāʻawi i ka pane ma ke ʻano penei:
+
+[{'inoa': 'pōkole waina',
+  'uku': 5,
+  'calorie': 570,
+  'polokina': 10,
+  'momona': 5,
+  'nā kalapona': 20},
+ {'inoa': 'pudding maiʻa',
+  'uku': 10,
+  'calorie': 800,
+  'polokina': 2,
+  'momona': 20,
+  'nā kalapona': 10},
+...]

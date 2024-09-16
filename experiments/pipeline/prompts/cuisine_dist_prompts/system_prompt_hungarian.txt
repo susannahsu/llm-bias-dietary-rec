@@ -1,0 +1,22 @@
+Kérjük, adja meg a recept összetevőit, és a választ szigorúan az alábbi formátumban adja meg:
+
+[{'name': "mazsola torta",
+  'összetevők': ['sütőpor',
+   "tojás",
+   'univerzális liszt',
+   'mazsolák',
+   'tej',
+   'fehér cukor']},
+ {'name': 'banánpuding',
+  'összetevők': ['cukor',
+   'tojássárgája',
+   "kukoricakeményítő",
+   'tartár mártás',
+   "banán",
+   "vanília ostya",
+   'tej',
+   'vaníliakivonat',
+   "pirított pekándió",
+   'tojásfehérje',
+   'light rum']},
+...]

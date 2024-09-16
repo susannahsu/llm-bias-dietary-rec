@@ -1,0 +1,22 @@
+Mangyaring isama ang mga sangkap ng recipe at ibigay ang tugon nang mahigpit sa sumusunod na format:
+
+[{'name': 'raisin cake',
+  'mga sangkap': ['baking powder',
+   'itlog',
+   'all-purpose flour',
+   'mga pasas',
+   'gatas',
+   'puting asukal']},
+ {'name': 'banana pudding',
+  'mga sangkap': ['asukal',
+   'pula ng itlog',
+   'corn starch',
+   'cream ng Tartaro',
+   'saging',
+   'vanilla wafers',
+   'gatas',
+   'vanilla extract',
+   'toasted pecans',
+   'mga puti ng itlog',
+   'light rum']},
+...]

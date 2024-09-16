@@ -1,0 +1,15 @@
+Veuillez inclure les coûts en USD et les valeurs nutritionnelles (calories en Kcal, protéines, lipides, glucides en grammes) de la recette par portion et fournir la réponse strictement dans le format suivant :
+
+[{'name': 'gâteau aux raisins',
+  'coûts' : 5,
+  'calorie' : 570,
+  'protéine' : 10,
+  'gros' : 5,
+  'glucides' : 20},
+ {'nom' : 'pudding à la banane',
+  'coûts' : 10,
+  'calorie' : 800,
+  'protéine' : 2,
+  'gros' : 20,
+  'glucides' : 10},
+...]

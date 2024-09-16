@@ -1,0 +1,22 @@
+Inkludera ingredienserna i receptet och ge svaret strikt i följande format:
+
+[{'name': 'russinkaka',
+  'ingredienser': ['bakpulver',
+   'ägg',
+   "mjöl för alla ändamål",
+   'russin',
+   'mjölk',
+   'vitt socker']},
+ {'name': 'bananpudding',
+  'ingredienser': ['socker',
+   'äggulor',
+   'majsstärkelse',
+   'vaniljkräm',
+   "bananer",
+   'vaniljrån',
+   'mjölk',
+   'vanilj extrakt',
+   "rostade pekannötter",
+   'äggvitor',
+   'lätt rom']},
+...]

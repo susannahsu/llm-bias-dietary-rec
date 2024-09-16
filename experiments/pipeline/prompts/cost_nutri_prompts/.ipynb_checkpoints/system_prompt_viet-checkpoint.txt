@@ -1,0 +1,15 @@
+Vui lòng bao gồm chi phí bằng USD và giá trị dinh dưỡng (calo tính bằng Kcal, protein, chất béo, carbohydrate tính bằng gam) của công thức cho mỗi khẩu phần và cung cấp phản hồi nghiêm ngặt theo định dạng sau:
+
+[{'name': 'bánh nho khô',
+  'chi phí': 5,
+  'calo': 570,
+  'chất đạm': 10,
+  'béo': 5,
+  'carbohydrate': 20},
+ {'name': 'bánh pudding chuối',
+  'chi phí': 10,
+  'calo': 800,
+  'protein': 2,
+  'béo': 20,
+  'carbohydrate': 10},
+...]

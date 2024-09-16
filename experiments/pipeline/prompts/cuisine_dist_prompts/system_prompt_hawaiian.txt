@@ -1,0 +1,22 @@
+E ʻoluʻolu e hoʻokomo i nā meaʻai o ka meaʻai hiki iaʻu ke hahai e kuke a hāʻawi i nā kikoʻī o ka papa inoa o nā meaʻai aʻu e pono ai ma ke ʻano penei:
+
+[{'inoa o ka meaʻai': 'kāka waina',
+ 'mea hoʻohui': ['pada paʻa',
+ 'hua',
+ 'palaoa a pau',
+ 'waina',
+ 'waiu',
+ 'ko keʻokeʻo']},
+ {'inoa o ka meaʻai': 'pudding maiʻa',
+ 'mea': ['sugar',
+ 'oeo hua manu',
+ 'kāna starch',
+ 'kaʻilima tartar',
+ 'ka maiʻa',
+ 'Wafers vanilla',
+ 'waiu',
+ 'extract vanilla',
+ 'pecans toasted',
+ 'hua keokeo',
+ 'rum māmā']},
+...]

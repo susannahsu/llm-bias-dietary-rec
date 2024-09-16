@@ -1,0 +1,22 @@
+Inclua os ingredientes da receita e forneça a resposta estritamente no seguinte formato:
+
+[{'nome': 'bolo de passas',
+  'ingredientes': ['fermento em pó',
+   'ovos',
+   'farinha multiuso',
+   'passas de uva',
+   'leite',
+   'açúcar branco']},
+ {'nome': 'pudim de banana',
+  'ingredientes': ['açúcar',
+   'gemas de ovo',
+   'amido de milho',
+   'creme de tártaro',
+   'bananas',
+   'bolachas de baunilha',
+   'leite',
+   'extrato de baunilha',
+   'nozes pecans torradas',
+   'claras de ovo',
+   'rum leve']},
+...]

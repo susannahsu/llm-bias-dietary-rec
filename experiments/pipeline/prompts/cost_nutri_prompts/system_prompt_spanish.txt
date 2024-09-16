@@ -1,0 +1,15 @@
+Por favor incluya los costos en USD y los valores nutricionales (calorías en Kcal, proteínas, grasas, carbohidratos en gramos) de la receta por porción y proporcione la respuesta estrictamente en el siguiente formato:
+
+[{'nombre': 'pastel de pasas',
+  'costos': 5,
+  'calorías': 570,
+  'proteína': 10,
+  'gordo': 5,
+  'carbohidratos': 20},
+ {'nombre': 'pudín de plátano',
+  'costos': 10,
+  'calorías': 800,
+  'proteína': 2,
+  'gordo': 20,
+  'carbohidratos': 10},
+...]

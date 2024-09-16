@@ -1,0 +1,22 @@
+Veuillez inclure les ingrédients de la recette et fournir la réponse strictement dans le format suivant :
+
+[{'name': 'gâteau aux raisins',
+  'ingrédients': ['levure chimique',
+   'œufs',
+   'farine tout usage',
+   'raisins secs',
+   'lait',
+   'sucre blanc']},
+ {'nom' : 'pudding à la banane',
+  'ingrédients': ['sucre',
+   'jaunes d'œuf',
+   'fécule de maïs',
+   'crème tartare',
+   'bananes',
+   'gaufrettes à la vanille',
+   'lait',
+   'extrait de vanille',
+   'pacanes grillées',
+   'Blancs d'oeufs',
+   'rhum léger']},
+...]
